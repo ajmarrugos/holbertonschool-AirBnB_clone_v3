@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """ New Engine as DBStorage """
+import models
 from os import getenv
 from models.user import User
 from models.city import City
